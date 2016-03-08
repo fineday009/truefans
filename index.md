@@ -3,7 +3,7 @@
 
 # hellowo ....
 
-{% highlight cosole %}
+{% highlight console %}
 $ git clone ...
-{% endhighlight%}
+{% endhighlight %}
 
